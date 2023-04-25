@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Kenyan_Worship_And_Praise_Songs.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <Kenyan_Worship_And_Praise_Songs.Properties.Settings>
+            <setting name="DisplayTextSize" serializeAs="String">
+                <value>95</value>
+            </setting>
+            <setting name="DisplayNoCharacters" serializeAs="String">
+                <value>50</value>
+            </setting>
+        </Kenyan_Worship_And_Praise_Songs.Properties.Settings>
+    </userSettings>
+</configuration>
